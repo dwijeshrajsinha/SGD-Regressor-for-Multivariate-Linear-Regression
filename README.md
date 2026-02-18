@@ -9,14 +9,14 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 1. Import Required Libraries
-2.Load and Inspect the Dataset
-3.Select Multiple Input Features and Target Variable
-4.Split the Dataset into Training and Testing Sets
-5.Perform Feature Scaling on Input Variables
-6.Initialize and Configure the SGD Regressor Model
-7.Train the Model Using Training Data
-8.Predict Output for Test Data
-9.Evaluate Model Performance Using Error Metrics 
+2. Load and Inspect the Dataset
+3. Select Multiple Input Features and Target Variable
+4. Split the Dataset into Training and Testing Sets
+5. Perform Feature Scaling on Input Variables
+6. Initialize and Configure the SGD Regressor Model
+7. Train the Model Using Training Data
+8. Predict Output for Test Data
+9. Evaluate Model Performance Using Error Metrics 
 
 ## Program:
 ```
